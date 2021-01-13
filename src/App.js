@@ -4,7 +4,7 @@ import Child from './chlid';
 function App() {
   return (
     <div>
-        <Child name='Abdul Rehman'/>
+        <Child name='Everyone!'/>
     </div>
   );
 }
